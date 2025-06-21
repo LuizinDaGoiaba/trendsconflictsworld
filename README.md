@@ -27,21 +27,8 @@ Aplicativo Flutter para monitorar eventos de conflitos globais via API ACLED, co
 
 ## 📁 Organização do Projeto
 
-lib/
-├── controllers/
-│   ├── acled_service.dart
-│   ├── auth_service.dart
-│   └── watchlist_service.dart
-├── models/
-│   ├── acled_event.dart
-│   ├── comment.dart
-│   └── watchlist_event.dart
-├── views/
-│   ├── home_screen.dart
-│   ├── login_screen.dart
-│   └── map_screen.dart
-├── firebase_options.dart
-└── main.dart
+![image](https://github.com/user-attachments/assets/fa86f6fc-99ae-4386-8917-4c24e93b0c1e)
+
 
 ## 🔧 Configuração do Firebase
 1. Crie um projeto no Firebase Console
