@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "581198254462",
+    "project_id": "trends-conflicts-world",
+    "storage_bucket": "trends-conflicts-world.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581198254462:android:5a0a2bac67e9f39ff2e32f",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581198254462-vrlfbos821buo0nrkgb4rq4bf7iltuc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vc95ZqdXbXTmHWud4xKMM4TVrodJ5o8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581198254462-vrlfbos821buo0nrkgb4rq4bf7iltuc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
